@@ -1,0 +1,14 @@
+layout_spectrum: 0.1155143
+typography_spectrum: 0.2242833
+color:
+  saturation: 0.7942665
+  lightness: 0.7841484
+  brandStrength: 0.4721754
+  rhythmicContrast: 0.703204
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'Vincent van Rheden '
